@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @jkao97
+- 👀 I’m interested in ...
+  Learning more about software development and working on cool project ideas.
+- 🌱 I’m currently learning ...
+  How to manage infrastructure using software. Some tools I've worked with include Python, Terraform, and Ansible. 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+  email: bleach94539@gmail.com
+
+<!---
+jkao97/jkao97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
